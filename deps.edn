@@ -1,0 +1,9 @@
+{:paths ["src" "resources"]
+
+ :deps
+ {cheshire/cheshire {:mvn/version "5.11.0"}
+  info.sunng/ring-jetty9-adapter {:mvn/version "0.17.7"}
+  org.clojure/clojure {:mvn/version "1.11.1"}
+  ring/ring-core {:mvn/version "1.9.5"}
+  ring/ring-json {:mvn/version "0.5.1"}
+  net.tessellator/bell {:mvn/version "0.1.1"}}}

@@ -1,7 +1,7 @@
 # CLJ+TS WebSocket Chat
 
 This is a sample project that implements a websocket chat application with a
-Clojure/ring/Jetty backend and a TS/React frontend.
+Clojure/ring/Undertow backend and a TS/React frontend.
 
 ## Development
 
